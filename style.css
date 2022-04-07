@@ -1,0 +1,27 @@
+body{
+  min-height: 100vh;
+}
+
+main{
+  flex-grow: 1;
+}
+
+.container{
+  min-height: 100vh;
+}
+
+.row{
+  min-width: 80vw;
+}
+
+.racer-row{
+  min-width: 70vw;
+}
+
+.racer-label{
+  min-width: 3rem;
+}
+
+.drive{
+  padding-left: 0;
+}
